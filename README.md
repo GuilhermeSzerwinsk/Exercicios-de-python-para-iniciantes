@@ -1,4 +1,4 @@
 # Exercicios-de-python-para-iniciantes
 Vou deixar uma lista com vários exercícios e respostas para você que quer aprender python. 
 
-print('Diga seu nome')
+print('Diga seu nome') dfdfdfddfdfgfgdgg
